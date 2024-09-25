@@ -1,4 +1,4 @@
-## Cafe Management System :
+# Cafe Management System :
 The Cafe Management System is a Java-based application designed to help cafe administrators manage daily operations efficiently. 
 It focuses on essential functions that streamline menu and order management.
 Here’s an overview of the key features:
