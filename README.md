@@ -4,8 +4,9 @@ It focuses on essential functions that streamline menu and order management.
 Here’s an overview of the key features:
 # Key Functions :
 # There are two main sections :
-1.Menu Management Section
-2.Order Management Section
+**1.Menu Management Section**
+
+**2.Order Management Section**
 # 1. Menu Management Section :
 **1. Add Item:** Admins can easily add new food and drink items to the menu, including details like name, price, and description.
 
